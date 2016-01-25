@@ -3,6 +3,7 @@ This is the Battleship game I made during the Python course on Code Academy. If 
  
 from random import randint
 
+```
 board = []
 
 for x in range(5):
@@ -47,3 +48,4 @@ for turn in range(4):
             print "Game Over"
         print "Turn", turn
     print_board(board)
+```
