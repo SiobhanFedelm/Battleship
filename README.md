@@ -1,5 +1,5 @@
 # Battleship
-This is the Battleship game I made during the Python course on Code Academy. If anyone can tell me why its not treating the first part of the code as code but the rest is properly indented that would be so helpful.
+This is the Battleship game I made during the Python course on Code Academy. 
  
 from random import randint
 
